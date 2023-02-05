@@ -38,7 +38,7 @@ package InterviewCode;
 	// Driver Code
 	public static void main(String[] args)
 	{
-		int x = 105;
+		int x = 299;
 		print_sieve(x);
 	}
 	}
